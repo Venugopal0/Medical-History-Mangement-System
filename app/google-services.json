@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764665575569",
+    "firebase_url": "https://mobileapptotrackmedicalrecords-default-rtdb.firebaseio.com",
+    "project_id": "mobileapptotrackmedicalrecords",
+    "storage_bucket": "mobileapptotrackmedicalrecords.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764665575569:android:5732e583ca7a5771636730",
+        "android_client_info": {
+          "package_name": "com.example.mobileapptotrackmedicalrecords"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764665575569-5o2v6lk6lj8uenjna1n3b88545u8qgq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5on1uDK18XfMGv8ogR2GZhGoD4V5nzGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764665575569-5o2v6lk6lj8uenjna1n3b88545u8qgq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
